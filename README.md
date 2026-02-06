@@ -6,3 +6,4 @@ Bu repo, günlük hayatta karşımıza çıkan sıkıcı işleri tek bir Python 
 * **QR Code Generator (QR_Code_Generator.py):** Metin veya bağlantıları (URL) anında taranabilir renkli QR kodlarına dönüştürür.
 * **Password Generator (password_generator.py):** Güvenlik standartlarına uygun, karmaşık ve tahmin edilmesi zor parolalar üretir.
 * **IP Info (ip_info.py):** Bu araç, üzerinde çalıştığı makinenin yerel ağ (LAN) üzerindeki kimlik bilgilerini tespit eder.
+* **Get_saved_Wi-Fi_passwords_with_one_click:** Bu arac kaydedilmiş Wİ-Fİ şifrelerini hepsini tek tıkla size gösterir.
