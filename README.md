@@ -7,3 +7,4 @@ Bu repo, günlük hayatta karşımıza çıkan sıkıcı işleri tek bir Python 
 * **Password Generator (password_generator.py):** Güvenlik standartlarına uygun, karmaşık ve tahmin edilmesi zor parolalar üretir.
 * **IP Info (ip_info.py):** Bu araç, üzerinde çalıştığı makinenin yerel ağ (LAN) üzerindeki kimlik bilgilerini tespit eder.
 * **Get_saved_Wi-Fi_passwords_with_one_click:** Bu arac kaydedilmiş Wİ-Fİ şifrelerini hepsini tek tıkla size gösterir.
+* **Instant Web Interface with Streamlit:** Streamlit ile anında web siteleri yapabilirsin kodumu çalıştırmak için yapman greken tek şey streamlit run Instant_Web_Interface_with_Streamlit.py
